@@ -1,25 +1,18 @@
-# Fibonacci-IEnumerable-BigInteger
-This program give  us  current Fibonacci member value
 ![Logo of the project](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
 
-# Name of the project
-> Additional information or tagline
+# Fibonacci-IEnumerable-BigInteger
+> This program give  us  current Fibonacci member value
 
-A brief description of your project, what it is used for and how does life get
-awesome when someone starts to use it.
+Programm output  give  us  cuurent Fibonacci number when press <N> next value.
 
 ## Installing / Getting started
 
 A quick introduction of the minimal setup you need to get a hello world up &
 running.
 
-```shell
-packagemanager install awesome-project
-awesome-project start
-awesome-project "Do something!"  # prints "Nah."
+```C#
+Run code Ctrl+F5  ...  Next value <N>
 ```
-
-Here you should say what actually happens when you execute the code above.
 
 ### Initial Configuration
 
